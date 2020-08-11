@@ -1,4 +1,4 @@
-package com.lin.user;
+package com.lin.user.service;
 
 
 import org.springframework.cloud.openfeign.FeignClient;
